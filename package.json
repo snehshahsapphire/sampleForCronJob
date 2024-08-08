@@ -6,9 +6,6 @@
   "scripts": {
     "start": "node realFile.js"
   },
-  "dependencies": {
-    // List any dependencies here if you have any
-  },
   "author": "",
   "license": "ISC"
 }
