@@ -1,12 +1,14 @@
 {
-  "name": "my-node-project",
+  "name": "log-time-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "readFile.js",
+  "description": "A simple Node.js app to log the current time.",
+  "main": "realFile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node realFile.js"
   },
-  "keywords": [],
+  "dependencies": {
+    // List any dependencies here if you have any
+  },
   "author": "",
   "license": "ISC"
 }
